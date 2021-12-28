@@ -1,0 +1,85 @@
+h1{
+
+  font-family: 'Rock Salt', cursive;
+}
+.navbar-brand{
+
+  font-family: 'Fugaz One', cursive;
+}
+
+.nav-item{
+
+  font-family: 'Fugaz One', cursive;
+font-family: 'Kadwa', serif;
+}
+
+p{
+
+/* para===============*/
+
+font-family: 'Fugaz One', cursive;
+font-family: 'Kadwa', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Vidaloka', serif;
+font-family: 'Zen Kurenaido', sans-serif;
+font-weight: bold;
+}
+/* para===============*/
+
+/* ===============*/
+
+.about-img{
+
+  margin-left: -100px;
+  right:  -60px;
+}
+.btn{
+  padding: 10px 25px;
+  border-radius: 100px;
+}
+
+
+
+
+
+
+
+
+
+.social a {
+  padding: 0 .5em;
+}
+
+
+
+
+/* card body===============*/
+.custom-body{
+
+  width: 400px;
+}
+.primary-btn{
+  color: black;
+  background: yellow;
+  border: 1px solid green;
+  border-radius: 50px;
+}
+
+
+.rounded-circle {
+  border:5px solid #6495ED ;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
